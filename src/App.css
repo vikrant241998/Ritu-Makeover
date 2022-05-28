@@ -540,7 +540,6 @@
         font-size: 1rem;
     }
     .btn-left{
-        border: 1px solid red; 
         margin-right: 8px; 
     }
 }
@@ -551,13 +550,11 @@
         margin-left: 0px;
     }
 
-    .btn-left{
-        border: 1px solid red; 
+    .btn-left{ 
         margin-right: -6px; 
     }
     
-    .btn-right{
-        border: 1px solid red; 
+    .btn-right{ 
         margin-left: 20px; 
     }
     .home-container {
@@ -625,13 +622,11 @@
         font-size: 10px;
     }
 
-    .btn-left{
-        border: 1px solid red; 
+    .btn-left{ 
         margin-right: -6px; 
     }
     
-    .btn-right{
-        border: 1px solid red; 
+    .btn-right{ 
         margin-left: 20px; 
     }
 }
