@@ -563,8 +563,14 @@
     }
 
     .home-container {
-        flex-direction: column-reverse;
-        margin: 70px 0;
+        align-items: center;
+        color: #fff;
+        display: flex;
+        justify-content: space-between;
+        /* margin: 70px 0; */
+        position: absolute;
+        top: 60px;
+        height: 80vh;
     }
 
     .home-row-one h1 {
@@ -579,6 +585,7 @@
     .home-row-one p {
         font-size: 11px;
         line-height: 1.3rem;
+        padding-top: 0px;
     }
 
     .home-row-one img {
