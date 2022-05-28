@@ -32,6 +32,7 @@ export default function Home() {
             </li>
             <li>
               <a href="https://www.instagram.com/"> <FaInstagram /> </a>
+              
             </li>
             <li>
               <a href="https://www.linkedin.com/"> <FaLinkedinIn /> </a>
