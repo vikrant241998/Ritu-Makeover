@@ -978,6 +978,20 @@
     transition: 0.5s ease-in;
 }
 
+
+@media screen and (max-width: 600px) {
+    .portfolio-top h1 {
+        font-size: 1.6rem;
+    }    
+}
+
+@media screen and (max-width: 400px) {
+    .portfolio-top h1 {
+        font-size: 1.5rem;
+    }    
+}
+
+
 /* ========Contact Page========= */
 .map-wrapper {
     width: 100%;
