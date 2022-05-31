@@ -9,7 +9,7 @@ export default function NavbarLink() {
     <div className="logo">
       <Link to="/"> <img src="../images/logo.jpg" alt="logo" /> </Link>
       <h3>
-        Ritu Mulankar
+        Ritu Makeover
       </h3>
 
     </div>
