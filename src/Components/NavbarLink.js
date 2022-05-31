@@ -8,9 +8,7 @@ export default function NavbarLink() {
     <div className='main-menu'>
     <div className="logo">
       <Link to="/"> <img src="../images/logo.jpg" alt="logo" /> </Link>
-      <h3>
-        Ritu Makeover
-      </h3>
+      <h3> Ritu Makeover </h3>
 
     </div>
 
